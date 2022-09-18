@@ -21,10 +21,24 @@ LoadoutCategories/**/*.*
 Maps/*.*
 Maps/**/*.*
 
-#Ignore unused portrait
+#Ignore unused stuffs
 CharPortraits/Missing.png
-
-#Ignore unused perks
+ItemAddons/iconAddon_gum.png
+ItemAddons/iconItemAddon_temp1.png
+ItemAddons/Missing.png
+items/iconItems_temp1.png
+items/iconItems_trapple.png
+Favors/iconFavors_temp1.png
+Favors/iconFavors_temp2.png
 Perks/iconPerks_artefactHunter.png
 Perks/iconPerks_toughRunner.png
+Perks/iconPerks_underperform.png
+Perks/iconPerks_temp1.png
+Perks/iconPerks_temp2.png
 Perks/toth_temp.png
+Perks/Missing.png
+Perks/toth_temp.png
+#Mobile power icon
+Powers/Atl_Hud_*.png
+Powers/**/Atl_Hud_*.png
+Powers/iconPowers_temp1.png
