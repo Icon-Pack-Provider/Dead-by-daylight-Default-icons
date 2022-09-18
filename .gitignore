@@ -1,0 +1,31 @@
+#Ignore CharacterPortrait HUD (In-game character HUD) for now. As it can't be modify (yet?)
+CharPortraitsHUD/*.*
+CharPortraitsHUD/**/*.*
+
+#Ignore Store items/News display
+Banners/*.*
+Banners/**/*.*
+Customization/*.*
+Customization/**/*.*
+NewContentSplash/*.*
+Packs/*.*
+StoreBackgrounds/*.*
+StoreBackgrounds/**/*.*
+StoreTabs/*.*
+
+#Ignore UI Items
+Abilities/*.*
+CharacterSlideShowRenders/*.*
+Friendlist/*.*
+LoadoutCategories/*.*
+LoadoutCategories/**/*.*
+Maps/*.*
+Maps/**/*.*
+
+#Ignore unused portrait
+CharPortraits/Missing.png
+
+#Ignore unused perks
+Perks/iconPerks_artefactHunter.png
+Perks/iconPerks_toughRunner.png
+Perks/toth_temp.png
